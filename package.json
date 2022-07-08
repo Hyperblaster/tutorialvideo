@@ -19,7 +19,7 @@
     "fluro": "^2.0.22",
     "fluro-vue": "^2.0.21",
     "fluro-vue-ui": "^2.0.30",
-    "moment": "^2.24.0",
+    "moment": "^2.29.4",
     "moment-timezone": "^0.5.26",
     "path-to-regexp": "^3.1.0",
     "string-similarity": "^3.0.0",
